@@ -1,6 +1,5 @@
 Algoritmo "Quis"
 
-
 procedimento inicializacaoDasPerguntas()
 inicio
    perguntas[1] <- "Ocorre a fusão quando?"
